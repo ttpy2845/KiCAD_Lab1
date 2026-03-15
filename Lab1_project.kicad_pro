@@ -581,7 +581,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "C:\\KPI_LearningProjects\\E&PCB_Projects\\iso-a3.kicad_wks",
+    "page_layout_descr_file": "iso-a3.kicad_wks",
     "plot_directory": "",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
